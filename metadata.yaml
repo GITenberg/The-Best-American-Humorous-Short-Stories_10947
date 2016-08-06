@@ -1,0 +1,162 @@
+_repo: The-Best-American-Humorous-Short-Stories_10947
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Holmes, Oliver Wendell
+    birthdate: &id004 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+  - agent_name: Edwards, Harry Stillwell
+    birthdate: &id001 1855
+    deathdate: 1938
+    gutenberg_agent_id: '6154'
+    url: http://www.gutenberg.org/2009/agents/6154
+  - agent_name: Hastings, Wells
+    alias: Hastings, Wells Southworth
+    birthdate: 1879
+    deathdate: 1923
+    gutenberg_agent_id: '6158'
+    url: http://www.gutenberg.org/2009/agents/6158
+  - agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: &id003 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+  - agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Francis Richard
+    - Stockton, Frank R. (Frank Richard)
+    birthdate: 1834
+    deathdate: &id002 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+  - agent_name: Curtis, George William
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '2048'
+    url: http://www.gutenberg.org/2009/agents/2048
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
+  - agent_name: Cooke, Grace MacGowan
+    aliases:
+    - Cooke, Mrs. William
+    - MacGowan, Grace
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3291'
+    url: http://www.gutenberg.org/2009/agents/3291
+  - agent_name: Kirkland, Caroline M. (Caroline Matilda)
+    birthdate: 1801
+    deathdate: &id005 1864
+    gutenberg_agent_id: '6153'
+    url: http://www.gutenberg.org/2009/agents/6153
+  - agent_name: Chester, George Randolph
+    birthdate: 1869
+    deathdate: 1924
+    gutenberg_agent_id: '1465'
+    url: http://www.gutenberg.org/2009/agents/1465
+    wikipedia: http://en.wikipedia.org/wiki/George_Randolph_Chester
+  - agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+  - agent_name: Hale, Edward Everett
+    aliases:
+    - Ingham, Frederic
+    - Hale, Edward E.
+    - Darragh, J. Thomas
+    - Hale, E. E. (Edward Everett)
+    birthdate: &id006 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+  - agent_name: Bunner, H. C. (Henry Cuyler)
+    alias: Bunner, Henry Cuyler
+    birthdate: *id001
+    deathdate: 1896
+    gutenberg_agent_id: '6156'
+    url: http://www.gutenberg.org/2009/agents/6156
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cuyler_Bunner
+  - agent_name: Lampton, William James
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '6157'
+    url: http://www.gutenberg.org/2009/agents/6157
+  - agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: *id002
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+  - agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: *id003
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+  - agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: *id004
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+  - agent_name: Morris, George Pope
+    aliases:
+    - Morris, Geo. P. (George Pope)
+    - Morris, G. P. (George Pope)
+    birthdate: 1802
+    deathdate: *id005
+    gutenberg_agent_id: '964'
+    url: http://www.gutenberg.org/2009/agents/964
+    wikipedia: http://en.wikipedia.org/wiki/George_Pope_Morris
+  - agent_name: Johnston, Richard Malcolm
+    birthdate: *id006
+    deathdate: 1898
+    gutenberg_agent_id: '6155'
+    url: http://www.gutenberg.org/2009/agents/6155
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Malcolm_Johnston
+creator:
+  editor:
+    agent_name: Jessup, Alexander
+    birthdate: 1871
+    gutenberg_agent_id: '40432'
+    url: http://www.gutenberg.org/2009/agents/40432
+description: Edited and introduced by Alexander Jessup
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The little Frenchman and his water lots / G.P. Morris -- The angel
+  of the odd / E.A. Poe -- The schoolmaster's progress / Caroline M.S. Kirkland --
+  The Watkinson evening / Eliza Leslie -- Titbottom's spectacles / G.W. Curtis --
+  My double; and how he undid me / E.E. Hale -- A visit to the asylum for aged and
+  decayed punsters / O.W. Holmes -- The celebrated jumping frog of Calaveras county
+  / Mark Twain -- Elder Brown's backslide / H.S. Edwards -- The hotel experience of
+  Mr. Pink Fluker / R.M. Johnston -- The nice people / H.C. Bunner -- The Buller-Podington
+  compact / F.R. Stockton -- Colonel Starbottle for the plaintiff / B. Harte -- The
+  duplicity of Hargraves / O. Henry -- Bargain day at Tutt House / G.R. Chester --
+  A call / Grace M. Cooke -- How the widow won the deacon / W.J. Lampton -- Gideon
+  / W. Hastings.
+title: The Best American Humorous Short Stories
+url: http://www.gutenberg.org/ebooks/10947
