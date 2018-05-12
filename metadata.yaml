@@ -1,15 +1,15 @@
 _repo: The-Best-American-Humorous-Short-Stories_10947
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Holmes, Oliver Wendell
-    birthdate: &id004 1809
+    birthdate: 1809
     deathdate: 1894
     gutenberg_agent_id: '387'
     url: http://www.gutenberg.org/2009/agents/387
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
   - agent_name: Edwards, Harry Stillwell
-    birthdate: &id001 1855
+    birthdate: 1855
     deathdate: 1938
     gutenberg_agent_id: '6154'
     url: http://www.gutenberg.org/2009/agents/6154
@@ -22,7 +22,7 @@ contributor:
   - agent_name: Henry, O.
     alias: Porter, William Sidney
     birthdate: 1862
-    deathdate: &id003 1910
+    deathdate: 1910
     gutenberg_agent_id: '634'
     url: http://www.gutenberg.org/2009/agents/634
     wikipedia: http://en.wikipedia.org/wiki/O._Henry
@@ -31,7 +31,7 @@ contributor:
     - Stockton, Francis Richard
     - Stockton, Frank R. (Frank Richard)
     birthdate: 1834
-    deathdate: &id002 1902
+    deathdate: 1902
     gutenberg_agent_id: '221'
     url: http://www.gutenberg.org/2009/agents/221
     wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
@@ -51,7 +51,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/3291
   - agent_name: Kirkland, Caroline M. (Caroline Matilda)
     birthdate: 1801
-    deathdate: &id005 1864
+    deathdate: 1864
     gutenberg_agent_id: '6153'
     url: http://www.gutenberg.org/2009/agents/6153
   - agent_name: Chester, George Randolph
@@ -72,14 +72,14 @@ contributor:
     - Hale, Edward E.
     - Darragh, J. Thomas
     - Hale, E. E. (Edward Everett)
-    birthdate: &id006 1822
+    birthdate: 1822
     deathdate: 1909
     gutenberg_agent_id: '650'
     url: http://www.gutenberg.org/2009/agents/650
     wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
   - agent_name: Bunner, H. C. (Henry Cuyler)
     alias: Bunner, Henry Cuyler
-    birthdate: *id001
+    birthdate: 1855
     deathdate: 1896
     gutenberg_agent_id: '6156'
     url: http://www.gutenberg.org/2009/agents/6156
@@ -92,7 +92,7 @@ contributor:
   - agent_name: Harte, Bret
     alias: Harte, Francis Bret
     birthdate: 1836
-    deathdate: *id002
+    deathdate: 1902
     gutenberg_agent_id: '593'
     url: http://www.gutenberg.org/2009/agents/593
     wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
@@ -101,13 +101,13 @@ contributor:
     - Clemens, Samuel Langhorne
     - Twain, Mark (Samuel Clemens)
     birthdate: 1835
-    deathdate: *id003
+    deathdate: 1910
     gutenberg_agent_id: '53'
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
   - agent_name: Poe, Edgar Allan
     alias: Poe, Edgar Allen
-    birthdate: *id004
+    birthdate: 1809
     deathdate: 1849
     gutenberg_agent_id: '481'
     url: http://www.gutenberg.org/2009/agents/481
@@ -117,16 +117,19 @@ contributor:
     - Morris, Geo. P. (George Pope)
     - Morris, G. P. (George Pope)
     birthdate: 1802
-    deathdate: *id005
+    deathdate: 1864
     gutenberg_agent_id: '964'
     url: http://www.gutenberg.org/2009/agents/964
     wikipedia: http://en.wikipedia.org/wiki/George_Pope_Morris
   - agent_name: Johnston, Richard Malcolm
-    birthdate: *id006
+    birthdate: 1822
     deathdate: 1898
     gutenberg_agent_id: '6155'
     url: http://www.gutenberg.org/2009/agents/6155
     wikipedia: http://en.wikipedia.org/wiki/Richard_Malcolm_Johnston
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Jessup, Alexander
@@ -134,6 +137,8 @@ creator:
     gutenberg_agent_id: '40432'
     url: http://www.gutenberg.org/2009/agents/40432
 description: Edited and introduced by Alexander Jessup
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10947#The-Best-American-Humorous-Short-Stories
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
